@@ -1,0 +1,28 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #C9B1BD;
+}
+
+#title{
+    background-color: #D5DFE5;
+    text-align: center;
+    font-size: 50px; 
+}
+.title-page img{
+    margin-left: 30%;
+    margin-right: auto;
+    width: 450px;
+    height: auto;    
+}
+.list,.item{
+    font-size: 28px;
+}
+.list p{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.details h3{
+    font-weight: bold;
+    background-color: #D5DFE5;
+}
